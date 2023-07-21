@@ -1,13 +1,11 @@
-# apigen-ruby-rspec-sinatra
+# APIGen-ruby-rspec-sinatra
 
-Welcome to the project ruby/rspec/sinatra AI APIs.
+Welcome to the APIGen project example, it contains a small demo lib that generates ruby/rspec/sinatra AI APIs.
 
+We implement a LangChain-like set of prompts to generate API Code
 
-This Readme contains 2 parts:
+We taget Ruby RSpec Sinatra apps.
 
-`lib` folder contains the library code that we used to generate the APIs
+This is a demonstration done for scientific/research purpose.
 
-
-Check out the library
-
-Check out the example generated apps
+If you have any feedback on this code please contact me on twitter @makevoid - https://twitter.com/makevoid
