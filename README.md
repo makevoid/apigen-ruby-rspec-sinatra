@@ -11,3 +11,7 @@ This is a demonstration done for scientific/research purpose.
 Check out the generated apps here: https://github.com/makevoid/apigen-ruby-rspec-sinatra-generated-apps
 
 If you have any feedback on this code please contact me on twitter @makevoid - https://twitter.com/makevoid
+
+### Demo video
+
+## [📹](https://www.youtube.com/watch?v=GHC5oHgq3gM)
